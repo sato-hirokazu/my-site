@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter">
+  <a href="https://github.com/sato-hirokazu/my-site">
     <img
       src="https://i.imgur.com/mW3HLrn.png"
       height="80"
