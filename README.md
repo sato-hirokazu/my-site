@@ -35,18 +35,6 @@
   - CircleCI support
   - Google Lighthouse Optimization
 
-# Lighthouse Audit
-
-<p align="center">
-  <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://i.imgur.com/YOVC76X.png"
-      alt="Google Lighthouse Audit"
-      title="Google Lighthouse Audit"
-    />
-  </a>
-</p>
-
 # Usage
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c536a80b-6cbe-4aea-9b0e-8c4730274216/deploy-status)](https://app.netlify.com/sites/stupefied-shockley-1b9ec2/deploys)
 
