@@ -20,13 +20,7 @@
 
 <p align="center">
   <strong>
-    View the demo at <a href="https://gatsby-tutorial-starter.netlify.com">gatsby-tutorial-starter.netlify.com</a>.
-  </strong>
-</p>
-
-<p align="center">
-  <strong>
-    Read the full step by step guide: <a href="https://justinformentin.com/guide-to-building-a-gatsby-site">Guide to Build a Gatsby Site with Perfect Pagespeed Scores</a></a>.
+    View the demo at <a href="https://stupefied-shockley-1b9ec2.netlify.app/</a>.
   </strong>
 </p>
 
