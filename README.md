@@ -9,21 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter.svg?style=svg"
-      alt="CircleCI"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>
-    View the demo at <a href="https://stupefied-shockley-1b9ec2.netlify.app/</a>.
-  </strong>
-</p>
-
 ## Features
 
 - Gatsby v2
@@ -63,8 +48,7 @@
 </p>
 
 # Usage
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/justinformentin/gatsby-v2-tutorial-starter)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c536a80b-6cbe-4aea-9b0e-8c4730274216/deploy-status)](https://app.netlify.com/sites/stupefied-shockley-1b9ec2/deploys)
 
 ```bash
 Download project
