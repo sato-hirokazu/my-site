@@ -1,39 +1,3 @@
-<p align="center">
-  <a href="https://github.com/sato-hirokazu/my-site">
-    <img
-      src="https://i.imgur.com/mW3HLrn.png"
-      height="80"
-      alt="gatsby-v2-tutorial-starter"
-      title="Gatsby v2 Tutorial Starter"
-    />
-  </a>
-</p>
-
-## Features
-
-- Gatsby v2
-- Emotion for styling
-- Code syntax highlighting
-- Tags
-- SEO
-  - Sitemap generation
-  - Schema.org JSON-LD for Google Rich Snippets
-  - Twitter Tags
-  - OpenGraph Tags for Facebook/Google+/Pinterest
-  - robots.txt
-- Typography.js
-- Typefaces for faster font loading
-- Offline Support
-- Manifest Support
-- Gatsby Image
-  - Responsive images
-  - Traced SVG Loading with Lazy-Loading
-  - WebP Support
-- Development tools
-  - ESLint for linting
-  - Prettier for code style
-  - CircleCI support
-  - Google Lighthouse Optimization
 
 # Usage
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c536a80b-6cbe-4aea-9b0e-8c4730274216/deploy-status)](https://app.netlify.com/sites/stupefied-shockley-1b9ec2/deploys)
