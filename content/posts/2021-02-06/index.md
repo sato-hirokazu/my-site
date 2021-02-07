@@ -3,7 +3,7 @@ path: "/post-seven"
 cover: "../2018-10-16/speed.jpg"
 date: "2021-02-02"
 title: "AWS 3"
-tags: ['awseven
+tags: ['aws']
 published: true
 ---
 
@@ -12,7 +12,6 @@ published: true
 MFAを有効化する
 パスワードポリシーを変更する
 パスワードポリシー
-
 
 管理者用のIAMユーザーを作る
 
